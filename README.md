@@ -1,6 +1,6 @@
 # GraphML-Anomaly-detection-Ethereum-Network
 
-An anomaly detection analysis performed on the Ethereum network using the DeltaCon_0 algorithm.
+An anomaly detection analysis performed on the Ethereum network using the DeltaCon algorithm.
 
 ## 1.  Settings
 
