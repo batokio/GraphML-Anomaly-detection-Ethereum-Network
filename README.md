@@ -14,7 +14,7 @@ The Transaction Network is the network of all Ethereum transaction, made by user
 
 ## 3. Anomaly Detection
 
-The analysis is performed on the period ranging from January 19, 2022 to January 24, 2022. Over this period, the market capitalization of Ethereum declined by almost 50%, thus making it a good topic for analysis.
+The analysis is performed on the period ranging from January 19, 2022 to January 24, 2022. Over this period, the market capitalization of Ethereum declined by almost 50%. The goal is to find if it is possible to detect significant price drops through graph analysis.
 
 ## 4. Data Extraction from Google Cloud BigQuery
 
