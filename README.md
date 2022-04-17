@@ -12,7 +12,11 @@ In addition to the common Python libraries, our model requires the installation 
 
 The Transaction Network is the network of all Ethereum transaction, made by users, either to other users or smart contracts, or to a *Null* address in case of smart contract creation. In the context of this project, the analysis focuses only on the peer-to-peers transactions (e.g. excluding smart contracts and interactions involving a *Null* address).
 
-## 3. Data Extraction from Google Cloud BigQuery
+## 3. Anomaly Detection
+
+The analysis is performed on the period ranging from January 19, 2022 to January 24, 2022. Over this period, the market capitalization of Ethereum declined by almost 50%, thus making it a good topic for analysis.
+
+## 4. Data Extraction from Google Cloud BigQuery
 
 1. Login to Google Cloud Platform. 
 2. Create a bucket to store your files.
