@@ -22,7 +22,7 @@ The Transaction Network is the network of all Ethereum transaction, made by user
 5. If csv is preferred: <bucket>/<folder>/file*.csv (e.g. tmpbucket/blocks/blocks*.csv). <bR>
    The * will help to number the files as exporting the tables will split the data into multiple files. <br>
    Replace .csv with .txt or .json as per your preference.
-6. Pip install gsutil, open command line and download the files. (Tried with Python 2.7 in Ubuntu)<br>
+6. Pip install gsutil, open command line and download the files. (Tried with Python 3.9)<br>
    For downloaded entire folder: gsutil -m cp -r gs://bucketname/folder-name local-location <br>
    For downloaded multiple files: gsutil -m cp -r gs://bucketname/folder-name/filename* local-location<br>
 
